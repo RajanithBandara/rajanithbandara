@@ -61,21 +61,13 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:rajanithbandara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rajanithbandara"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rajanith.me"><img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="mailto:rajanithbandaras@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajanith-bandara-373920264/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rajaniths.online"><img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💡 Fun Facts
-
-- 🎮 Gamified some UI elements in EduTrack to feel like an RPG!
-- 📅 I love building productivity tools with reminders and event calendars
-- 🔐 I’ve built Firebase Auth apps with secure routing and smooth transitions
-- ⚡ I automate things with Node.js and Firebase Functions
-
----
 
 _“Code is not just a profession, it’s an adventure.”_
 
