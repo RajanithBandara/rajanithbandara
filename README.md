@@ -45,8 +45,9 @@
 ### 📈 Contributions Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajanithbandara&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanithbandara&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
 
 ---
 
