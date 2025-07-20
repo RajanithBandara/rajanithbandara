@@ -1,6 +1,6 @@
 @@ -1,73 +1,74 @@
 <h1 align="center">Hi there 👋, I'm Rajanith Bandara</h1>
-<h3 align="center">🚀 Final Year Computer Science Undergraduate | 💻 Full-Stack Dev | 📱 Flutter Enthusiast | 🌐 IoT Explorer</h3>
+<h3 align="center">🚀 Final Year Computer Science Undergraduate | 💻 Full-Stack Dev | 📱 Flutter Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajanithbandara&label=Profile%20views&color=brightgreen&style=flat" alt="rajanithbandara" />
@@ -13,7 +13,6 @@
 - 🎓 **EduTrack**: Academic progress tracker with GPA visualization, notifications & dynamic theming – built with Flutter + Firebase
 - 🏠 **UniNest**: Boarding house finder app for university students – React, Firebase, Node.js
 - 🌫️ **Air Quality Monitoring Dashboard**: ASP.NET + React with real-time sensor data and alert system
-- 🤖 IoT-based Sensor Board Programming (Ultrasonic, Temp)
 
 ---
 
