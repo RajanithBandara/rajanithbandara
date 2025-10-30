@@ -1,4 +1,3 @@
-@@ -1,73 +1,74 @@
 <h1 align="center">Hi there 👋, I'm Rajanith Bandara</h1>
 <h3 align="center">🚀 Final Year Computer Science Undergraduate | 💻 Full-Stack Dev | 📱 Flutter Enthusiast</h3>
 
@@ -39,6 +38,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajanithbandara&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
++---
+
++### 💬 Most Used Languages
++
++<p align="center">
++  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanithbandara&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
++</p>
+
 ---
 
 ### 📈 Contributions Graph
@@ -47,7 +54,6 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajanithbandara&theme=tokyo-night" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanithbandara&theme=tokyo-night&area=true&hide_border=true" />
 </p>
-
 
 ---
 
@@ -68,6 +74,5 @@
 </p>
 
 ---
-
 
 _“Code is not just a profession, it’s an adventure.”_
